@@ -1,1 +1,2 @@
-# machine_learning
+ML model that is intended to classify satellite imageries into various classes. It utilizes a mix of image features and ML alogos to make predictions about the class of each imagery. The particular details of the model will rely upon the qualities of the dataset and the particular ML algos and structure that are utilized. The confusion matrix can likewise be utilized to assess the model's performance and recognize regions for development.
+
